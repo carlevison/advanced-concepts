@@ -1,7 +1,7 @@
-const cloudName = "<your cloud name>";
-const uploadPreset = "<your unsigned upload preset>";
-const apiKey = "<your api key>";
-const useremail = "<your user name email>";
+const cloudName = "carl";
+const uploadPreset = "test_unsigned_upload";
+const apiKey = "323127161127519";
+const useremail = "caroline.levison@cloudinary.com";
 
 document.addEventListener("DOMContentLoaded", function () {
   console.log(cloudinary);
