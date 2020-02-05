@@ -2,9 +2,9 @@ document.addEventListener("DOMContentLoaded", function () {
   // called after successfully retrieving upload signature
   var mlFn = function (result, textStatus, xhr) {
     let config = {
-      cloud_name: '<cloud_name>',
-      api_key: '<api_key>',
-      username: '<user name email>',
+      cloud_name: 'carl',
+      api_key: '323127161127519',
+      username: 'caroline.levison@cloudinary.com',
       timestamp: result.timestamp,
       signature: result.signature,
       button_class: "ml-btn",
